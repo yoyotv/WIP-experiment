@@ -1,2 +1,2 @@
 # WIP-experiment
-Implement the Brain CMAC, PID controller to the hardware
+Implement the Brain, CMAC and PID controller to the hardware
