@@ -8,6 +8,11 @@ Implement the Brain, CMAC and PID controller to the hardware
 3. MPU6050
 4. L293D
 
+## Experiment car
+
+<img src="https://raw.githubusercontent.com/yoyotv/WIP-experiment/master/car.jpg" width="92" height="112">
+
+
 
 
 ## Build Instruction 
@@ -16,6 +21,8 @@ Implement the Brain, CMAC and PID controller to the hardware
 
 ## Run 
 `sudo ./mySegway`
+
+## Demo video
 
 
 
