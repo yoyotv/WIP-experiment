@@ -24,6 +24,8 @@ Implement the Brain, CMAC and PID controller to the hardware
 
 ## Demo video
 
+CMAC
+
 https://youtu.be/pElTRebiveU
 
 
