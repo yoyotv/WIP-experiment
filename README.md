@@ -11,11 +11,11 @@ Implement the Brain, CMAC and PID controller to the hardware
 
 
 ## Build Instruction 
-$ gcc -o mySegway ./mySegway.c ./motors.c  -lwiringPi -lpthread -lm
+`gcc -o mySegway ./mySegway.c ./motors.c  -lwiringPi -lpthread -lm`
 
 
 ## Run 
-$ sudo ./mySegway
+`sudo ./mySegway`
 
 
 
