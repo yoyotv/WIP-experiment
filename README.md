@@ -10,7 +10,7 @@ Implement the Brain, CMAC and PID controller to the hardware
 
 ## Experiment car
 
-<img src="https://raw.githubusercontent.com/yoyotv/WIP-experiment/master/car.jpg" width="92" height="112">
+<img src="https://raw.githubusercontent.com/yoyotv/WIP-experiment/master/car.jpg" >
 
 
 
